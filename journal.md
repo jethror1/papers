@@ -1,6 +1,6 @@
 # Title
 
-New New Measurements of BBOA over West Yorkshire
+New New Measurements of BBOA over West Yorkshire with John
 
 # Authors
 Jethro Rainford
